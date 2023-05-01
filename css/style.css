@@ -3147,7 +3147,7 @@ footer {
 .media-left {
 	width: 354px;
 	height: 615px;
-	background-image: url(/frontend/img/gc-left.gif);
+	background-image: url(https://storage.googleapis.com/shielded/gc-left.gif);
 	transform: matrix(-1, 0, 0, 1, 0, 0);
 	flex: none;
 	order: 1;
@@ -3157,7 +3157,7 @@ footer {
 .media-right {
 	width: 354px;
 	height: 615px;
-	background-image: url(/frontend/img/gc-right.gif);
+	background-image: url(https://storage.googleapis.com/shielded/gc-right.gif);
 	transform: matrix(-1, 0, 0, 1, 0, 0);
 	flex: none;
 	order: 2;
