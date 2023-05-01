@@ -2913,7 +2913,7 @@ footer {
     transform: rotate(179deg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(./img/white-big-blob.png);
+    background-image: url(../img/white-big-blob.png);
 }
 
 
@@ -2926,7 +2926,7 @@ footer {
     transform: rotate(272deg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(./img/white-big-blob.png);
+    background-image: url(../img/white-big-blob.png);
 }
 
 .skinGuardianProduct {
@@ -2936,7 +2936,7 @@ footer {
     left: 874px;
     top: -44.26px;
     /* background: url(/frontend/img/yellowProduct.png); */
-    background-image: url(./img/yellowProduct.png);
+    background-image: url(../img/yellowProduct.png);
     filter: drop-shadow(15px 10px 15px rgba(0, 0, 0, 0.15));
     transform: rotate(175deg);
     background-repeat: no-repeat;
@@ -2951,7 +2951,7 @@ footer {
     height: 755.99px;
     left: 800px;
     top: -44.26px;
-    background-image: url(./img/purpleProduct.png);
+    background-image: url(../img/purpleProduct.png);
     filter: drop-shadow(15px 10px 15px rgba(0, 0, 0, 0.15));
     transform: rotate(5deg);
     background-repeat: no-repeat;
