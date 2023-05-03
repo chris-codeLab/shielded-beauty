@@ -3480,7 +3480,7 @@ h6,
 .main-block {
 	padding-top: 340px;
 	padding-bottom: 237px;
-	background-image: url('https://storage.googleapis.com/shielded/hero.mp4');
+	background-image: transparent;
 	background-position: center;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
